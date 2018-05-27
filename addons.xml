@@ -67,7 +67,7 @@
   </addon>
 
 
-  <addon id="ale.kodi.repo" name="Ale Repository" version="1.6" provider-name="Ale84">
+  <addon id="ale.kodi.repo" name="Ale Repository" version="1.7" provider-name="Ale84">
 
     <extension point="xbmc.addon.repository" name="Ale Repository">
       <info compressed="false">
@@ -84,7 +84,7 @@
       </summary>
 
       <description>
-        Beccati sta repository
+        Repository di Ale, addons creati da me.
       </description>
 
       <disclaimer>
